@@ -1,5 +1,5 @@
 ;
-; lab12.asm
+; task2.asm
 ;
 ; Created: 2019/10/4 12:02:21
 ; Author : BC
