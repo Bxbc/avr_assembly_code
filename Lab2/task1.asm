@@ -1,5 +1,5 @@
 ;
-; lab_21.asm
+; task1.asm
 ;
 ; Created: 2019/10/10 23:02:58
 ; Author : BC
